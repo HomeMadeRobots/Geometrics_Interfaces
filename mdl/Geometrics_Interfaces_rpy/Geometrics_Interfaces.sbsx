@@ -1,0 +1,1195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.831.0</version>
+	<lang>C++</lang>
+	<BuildNo>9835649</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 6163a07c-e028-4127-b9ce-ad988e98a71f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Geometrics_Interfaces</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
+							<_hsubsystem type="a">Physical_Software_Architecture_Metamodel::Stereotypes</_hsubsystem>
+							<_hname type="a">PSWA_Package</_hname>
+							<_hid type="a">GUID afb0e42d-a399-4819-bb39-46f0fd0f0fbf</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">4.30.2020::20:27:21</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.30.2020::20:27:21</_modifiedTime>
+			<_lastID type="a">5</_lastID>
+			<weakCGTime type="a">4.30.2020::20:27:21</weakCGTime>
+			<strongCGTime type="a">4.30.2020::9:43:28</strongCGTime>
+			<_defaultComposite type="s">GUID c72fc73a-8bdd-4da3-a74d-d64fdb0c2ab3</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 959eccb5-e798-465b-937a-644c4c2539d7</value>
+				<value>GUID c72fc73a-8bdd-4da3-a74d-d64fdb0c2ab3</value>
+				<value>GUID cf7b3d63-652d-4ce2-8736-18af060a35bd</value>
+				<value>GUID 94aec857-b2e5-4986-a4cd-b70718f04567</value>
+				<value>GUID 3eeaa04e-8b01-4a16-a84d-349046d86e91</value>
+				<value>GUID 61541afd-c9d6-4198-b334-e18f0b501fc7</value>
+				<value>GUID 692669b5-ffb6-4ea5-954e-5f1678f5a8dd</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IDiagram type="e">
+			<_id type="a">GUID 959eccb5-e798-465b-937a-644c4c2539d7</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">Format</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">2</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Class</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">8</size>
+												<IProperty type="e">
+													<_Name type="a">DefaultSize</_Name>
+													<_Value type="a">0,34,84,148</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor</_Name>
+													<_Value type="a">255,255,255</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Font</_Name>
+													<_Value type="a">Tahoma</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Size</_Name>
+													<_Value type="a">8</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Weight@Child.NameCompartment@Name</_Name>
+													<_Value type="a">700</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">109,163,217</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineStyle</_Name>
+													<_Value type="a">0</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineWidth</_Name>
+													<_Value type="a">1</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Type</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">7</size>
+												<IProperty type="e">
+													<_Name type="a">DefaultSize</_Name>
+													<_Value type="a">0,0,108,73</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor</_Name>
+													<_Value type="a">255,255,255</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Font</_Name>
+													<_Value type="a">Tahoma</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Size</_Name>
+													<_Value type="a">8</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Weight@Child.NameCompartment@Name</_Name>
+													<_Value type="a">700</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">109,163,217</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineWidth</_Name>
+													<_Value type="a">1</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">CD_Distance_Measurement</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
+							<_hsubsystem type="a">Physical_Software_Architecture_Metamodel::Stereotypes::Diagrams</_hsubsystem>
+							<_hname type="a">PSWA_Diagram</_hname>
+							<_hid type="a">GUID c7b74034-874b-4fb8-b488-dec424934ba4</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.30.2020::9:57:34</_modifiedTime>
+			<_lastModifiedTime type="a">4.30.2020::9:57:34</_lastModifiedTime>
+			<m_hReferencedDiagram type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_hReferencedDiagram>
+			<_defaultSubsystem type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 6163a07c-e028-4127-b9ce-ad988e98a71f</_hid>
+				</IHandle>
+			</_defaultSubsystem>
+			<AggregatesList type="e">
+				<value>GUID 3f0d2230-5a29-434d-9e15-e6af6b659a77</value>
+			</AggregatesList>
+		</IDiagram>
+		<CGIClassChart type="e">
+			<_id type="a">GUID 3f0d2230-5a29-434d-9e15-e6af6b659a77</_id>
+			<m_type type="a">0</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hid type="a">GUID 959eccb5-e798-465b-937a-644c4c2539d7</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">0</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
+			<elementList type="a">3</elementList>
+			
+			<m_access type="a">'Z'</m_access>
+			<m_modified type="a">'N'</m_modified>
+			<m_nModifyDate type="a">0</m_nModifyDate>
+			<m_nCreateDate type="a">0</m_nCreateDate>
+			<m_bScaleWithZoom type="a">1</m_bScaleWithZoom>
+			<m_arrowStyle type="a">'S'</m_arrowStyle>
+			<m_pRoot type="s">GUID 18392a8f-7ebb-4dcf-8eea-28347f973333</m_pRoot>
+			<m_currentLeftTop type="a">0 0 </m_currentLeftTop>
+			<m_currentRightBottom type="a">0 0 </m_currentRightBottom>
+			<m_bFreezeCompartmentContent type="a">0</m_bFreezeCompartmentContent>
+			<AggregatesList type="e">
+				<value>GUID 18392a8f-7ebb-4dcf-8eea-28347f973333</value>
+				<value>GUID 1df9d0ce-9e29-4d06-b0ad-9d67ac75c4d2</value>
+				<value>GUID dbb1e5df-48a9-489a-a746-88b944ce4c14</value>
+			</AggregatesList>
+		</CGIClassChart>
+		<CGIClass type="e">
+			<_id type="a">GUID 18392a8f-7ebb-4dcf-8eea-28347f973333</_id>
+			<m_type type="a">78</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID c72fc73a-8bdd-4da3-a74d-d64fdb0c2ab3</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">TopLevel</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">0</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">0 </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Operations>
+		</CGIClass>
+		<CGIClass type="e">
+			<_id type="a">GUID 1df9d0ce-9e29-4d06-b0ad-9d67ac75c4d2</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">ObjectModelGe</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Client_Server_Interface</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">1</size>
+												<IProperty type="e">
+													<_Name type="a">Compartments</_Name>
+													<_Value type="a">Description,Operation</_Value>
+													<_Type type="a">MultiLine</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<m_type type="a">87</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID cf7b3d63-652d-4ce2-8736-18af060a35bd</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 18392a8f-7ebb-4dcf-8eea-28347f973333</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">Distance_Measurement</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2092</m_drawBehavior>
+			<m_transform type="a">0.356941 0 0 0.185383 383.286 176.009 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_bFramesetModified type="a">1</m_bFramesetModified>
+			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=59%25,41%25&gt;
+&lt;frame name=DescriptionCompartment&gt;
+&lt;frame name=OperationListCompartment&gt;</frameset>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Operations>
+			<AggregatesList type="e">
+				<value>GUID 8d68f5ba-f088-4d03-98c7-ba179b7c99f9</value>
+				<value>GUID ee7e397a-f58e-4b67-872f-007c67ec2412</value>
+			</AggregatesList>
+		</CGIClass>
+		<CGICompartment type="e">
+			<_id type="a">GUID 8d68f5ba-f088-4d03-98c7-ba179b7c99f9</_id>
+			<m_name type="a">Operation</m_name>
+			<m_displayOption type="a">All</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<_itemValueOfFontPropertiesMapCount type="a">2</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID ee7e397a-f58e-4b67-872f-007c67ec2412</_id>
+			<m_name type="a">Description</m_name>
+			<m_displayOption type="a">All</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+		</CGICompartment>
+		<CGIGenericElement type="e">
+			<_id type="a">GUID dbb1e5df-48a9-489a-a746-88b944ce4c14</_id>
+			<m_type type="a">200</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hid type="a">GUID 94aec857-b2e5-4986-a4cd-b70718f04567</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID 18392a8f-7ebb-4dcf-8eea-28347f973333</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">T_Distance</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_transform type="a">0.319527 0 0 0.129006 384 43.387 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 0 -3  0 1214  1183 1214  1183 -3  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=50%25,50%25&gt;
+&lt;frame name=DescriptionCompartment&gt;
+&lt;frame name=TagListCompartment&gt;</frameset>
+			<AggregatesList type="e">
+				<value>GUID 4ebabaef-b582-47b2-acdd-ef6d67814a64</value>
+				<value>GUID ddecaa05-84b7-4a1f-bf04-2f791cef9bb3</value>
+			</AggregatesList>
+		</CGIGenericElement>
+		<CGICompartment type="e">
+			<_id type="a">GUID 4ebabaef-b582-47b2-acdd-ef6d67814a64</_id>
+			<m_name type="a">Description</m_name>
+			<m_displayOption type="a">All</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+		</CGICompartment>
+		<CGICompartment type="e">
+			<_id type="a">GUID ddecaa05-84b7-4a1f-bf04-2f791cef9bb3</_id>
+			<m_name type="a">Tag</m_name>
+			<m_displayOption type="a">All</m_displayOption>
+			<m_bShowInherited type="a">0</m_bShowInherited>
+			<m_bOrdered type="a">0</m_bOrdered>
+			<_itemValueOfFontPropertiesMapCount type="a">3</_itemValueOfFontPropertiesMapCount>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
+		</CGICompartment>
+		<IClass type="e">
+			<_id type="a">GUID c72fc73a-8bdd-4da3-a74d-d64fdb0c2ab3</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID cf7b3d63-652d-4ce2-8736-18af060a35bd</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Distance_Measurement</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
+							<_hsubsystem type="a">Physical_Software_Architecture_Metamodel::Stereotypes::Interfaces</_hsubsystem>
+							<_hname type="a">Client_Server_Interface</_hname>
+							<_hid type="a">GUID 74d15759-da33-4217-9115-4cad66849eff</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">4.30.2020::10:11:31</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hid type="a">GUID 959eccb5-e798-465b-937a-644c4c2539d7</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_description type="p"><IDescription type="e">
+				<_textRTF type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 Gathers operations allowing to get obstacle distance \ulwave measurement \ulnone with any range sensor.\par%0D
+}%0D
+</_textRTF>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">4.30.2020::10:11:31</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">4.30.2020::10:11:31</weakCGTime>
+			<strongCGTime type="a">4.30.2020::9:55:25</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<AggregatesList type="e">
+				<value>GUID db2f1632-ad70-4189-8af8-2c7b146b9225</value>
+				<value>GUID ac847b9f-f524-4cf9-b773-d793334fe6fa</value>
+			</AggregatesList>
+		</IClass>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID db2f1632-ad70-4189-8af8-2c7b146b9225</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Operation</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">1</size>
+												<IProperty type="e">
+													<_Name type="a">Kind</_Name>
+													<_Value type="a">abstract</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">common,virtual,abstract</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">Get_Measured_Distance</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
+							<_hsubsystem type="a">Physical_Software_Architecture_Metamodel::Stereotypes::Interfaces</_hsubsystem>
+							<_hname type="a">Synchronous_Operation</_hname>
+							<_hid type="a">GUID 739c3d19-e20b-4e24-bab1-ec51826db9b5</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">4.30.2020::9:55:54</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.30.2020::9:55:54</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+			<AggregatesList type="e">
+				<value>GUID 0f8548f2-d0ac-4f5f-ab73-b9777b92bca7</value>
+				<value>GUID 9b4223cf-6f8f-4cc9-955d-bbb51a86e028</value>
+			</AggregatesList>
+		</IPrimitiveOperation>
+		<IArgument type="e">
+			<_id type="a">GUID 0f8548f2-d0ac-4f5f-ab73-b9777b92bca7</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">distance</_name>
+			<_modifiedTimeWeak type="a">4.30.2020::9:55:54</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.30.2020::9:55:54</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hid type="a">GUID 94aec857-b2e5-4986-a4cd-b70718f04567</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">Out</_argumentDirection>
+		</IArgument>
+		<IType type="e">
+			<_id type="a">GUID 9b4223cf-6f8f-4cc9-955d-bbb51a86e028</_id>
+			<_myState type="a">8192</_myState>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_kind type="a">Language</_kind>
+		</IType>
+		<IPrimitiveOperation type="e">
+			<_id type="a">GUID ac847b9f-f524-4cf9-b773-d793334fe6fa</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Operation</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">1</size>
+												<IProperty type="e">
+													<_Name type="a">Kind</_Name>
+													<_Value type="a">abstract</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">common,virtual,abstract</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">Is_Measured_Distance_Valid</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
+							<_hsubsystem type="a">Physical_Software_Architecture_Metamodel::Stereotypes::Interfaces</_hsubsystem>
+							<_hname type="a">Synchronous_Operation</_hname>
+							<_hid type="a">GUID 739c3d19-e20b-4e24-bab1-ec51826db9b5</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">4.30.2020::9:56:15</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.30.2020::9:56:15</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<_virtual type="a">0</_virtual>
+			<_abstract type="a">0</_abstract>
+			<_final type="a">0</_final>
+			<_concurrency type="a">Sequential</_concurrency>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_constant type="a">0</_constant>
+			<AggregatesList type="e">
+				<value>GUID 93e12141-47d6-472b-823b-53c78945d7ef</value>
+				<value>GUID 14fe6443-ba03-43b8-ab5d-b419b575ecb1</value>
+			</AggregatesList>
+		</IPrimitiveOperation>
+		<IArgument type="e">
+			<_id type="a">GUID 93e12141-47d6-472b-823b-53c78945d7ef</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">is_measure_valid</_name>
+			<_modifiedTimeWeak type="a">4.30.2020::9:56:12</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.30.2020::9:56:12</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">bool</_hname>
+					<_hid type="a">GUID e6c263cc-4bc5-4a11-b32d-02148c93add0</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_argumentDirection type="a">Out</_argumentDirection>
+		</IArgument>
+		<IType type="e">
+			<_id type="a">GUID 14fe6443-ba03-43b8-ab5d-b419b575ecb1</_id>
+			<_myState type="a">8192</_myState>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_kind type="a">Language</_kind>
+		</IType>
+		<IType type="e">
+			<_id type="a">GUID 94aec857-b2e5-4986-a4cd-b70718f04567</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">T_Distance</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+							<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+							<_hname type="a">Physical_Data_Type</_hname>
+							<_hid type="a">GUID 1a975650-21c7-4a3e-bdf1-c167b2560040</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">4.30.2020::20:27:21</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Allows to model data representing a distance. It is suitable to  represent relative positions as it can take negative values (-16 meters to 15,99951 meters).</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">4.30.2020::20:27:21</_modifiedTime>
+			<_typedefBaseType type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+					<_hname type="a">sint16</_hname>
+					<_hid type="a">GUID ebb36a0f-a588-4dc2-b4ff-03b59b7f0451</_hid>
+				</IClassifierHandle>
+			</_typedefBaseType>
+			<_typedefMultiplicity type="a">1</_typedefMultiplicity>
+			<_typedefIsOrdered type="a">0</_typedefIsOrdered>
+			<_typedefIsReference type="a">0</_typedefIsReference>
+			<_typedefIsConstant type="a">0</_typedefIsConstant>
+			<_kind type="a">Typedef</_kind>
+			<AggregatesList type="e">
+				<value>GUID 8b722c63-1f74-4ccb-9617-667102f4ce30</value>
+				<value>GUID e21b9098-0d5f-4fcb-854e-c05c99dbe27d</value>
+			</AggregatesList>
+		</IType>
+		<ITag type="e">
+			<_id type="a">GUID 8b722c63-1f74-4ccb-9617-667102f4ce30</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Unit</_name>
+			<_modifiedTimeWeak type="a">4.30.2020::9:50:22</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.30.2020::9:50:22</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+					<_hclass type="a">Physical_Data_Type</_hclass>
+					<_hname type="a">Unit</_hname>
+					<_hid type="a">GUID df5a664b-2e5a-4b8b-bece-06efd9933f87</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID c0b5c7fa-a2b2-4dcd-ab6b-28c01ac3ed8d</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID c0b5c7fa-a2b2-4dcd-ab6b-28c01ac3ed8d</_id>
+			<_modifiedTimeWeak type="a">4.30.2020::9:50:22</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.30.2020::9:50:22</_modifiedTime>
+			<_value type="a">m</_value>
+		</ILiteralSpecification>
+		<ITag type="e">
+			<_id type="a">GUID e21b9098-0d5f-4fcb-854e-c05c99dbe27d</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Resolution</_name>
+			<_modifiedTimeWeak type="a">4.30.2020::9:53:26</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.30.2020::9:53:26</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+					<_hclass type="a">Physical_Data_Type</_hclass>
+					<_hname type="a">Resolution</_hname>
+					<_hid type="a">GUID 404514f1-efc0-4eac-a6f0-44f21e5758bb</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID 4f287116-6ac3-4f0a-bb94-0dee04addd32</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 4f287116-6ac3-4f0a-bb94-0dee04addd32</_id>
+			<_modifiedTimeWeak type="a">4.30.2020::9:53:26</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.30.2020::9:53:26</_modifiedTime>
+			<_value type="a">2^-11</_value>
+		</ILiteralSpecification>
+		<IType type="e">
+			<_id type="a">GUID 3eeaa04e-8b01-4a16-a84d-349046d86e91</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">T_Angle</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+							<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+							<_hname type="a">Physical_Data_Type</_hname>
+							<_hid type="a">GUID 1a975650-21c7-4a3e-bdf1-c167b2560040</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">4.30.2020::9:53:55</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.30.2020::9:53:55</_modifiedTime>
+			<_typedefBaseType type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+					<_hname type="a">uint16</_hname>
+					<_hid type="a">GUID 0d6a9487-2e1a-4d71-8dcb-52824fa8170d</_hid>
+				</IClassifierHandle>
+			</_typedefBaseType>
+			<_typedefMultiplicity type="a">1</_typedefMultiplicity>
+			<_typedefIsOrdered type="a">0</_typedefIsOrdered>
+			<_typedefIsReference type="a">0</_typedefIsReference>
+			<_typedefIsConstant type="a">0</_typedefIsConstant>
+			<_kind type="a">Typedef</_kind>
+			<AggregatesList type="e">
+				<value>GUID 360bfdfa-8d9e-4539-8992-3639f986626a</value>
+				<value>GUID 915779dc-c368-4dc1-983f-db3407c70a92</value>
+			</AggregatesList>
+		</IType>
+		<ITag type="e">
+			<_id type="a">GUID 360bfdfa-8d9e-4539-8992-3639f986626a</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Unit</_name>
+			<_modifiedTimeWeak type="a">4.30.2020::9:52:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.30.2020::9:52:46</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+					<_hclass type="a">Physical_Data_Type</_hclass>
+					<_hname type="a">Unit</_hname>
+					<_hid type="a">GUID df5a664b-2e5a-4b8b-bece-06efd9933f87</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID 3273c7f0-6b76-489a-bafb-7c9bc75bd6f2</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 3273c7f0-6b76-489a-bafb-7c9bc75bd6f2</_id>
+			<_modifiedTimeWeak type="a">4.30.2020::9:52:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.30.2020::9:52:46</_modifiedTime>
+			<_value type="a">rad</_value>
+		</ILiteralSpecification>
+		<ITag type="e">
+			<_id type="a">GUID 915779dc-c368-4dc1-983f-db3407c70a92</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Resolution</_name>
+			<_modifiedTimeWeak type="a">4.30.2020::9:53:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.30.2020::9:53:17</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+					<_hclass type="a">Physical_Data_Type</_hclass>
+					<_hname type="a">Resolution</_hname>
+					<_hid type="a">GUID 404514f1-efc0-4eac-a6f0-44f21e5758bb</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID 76b62064-0b5e-4407-8b82-583e41abce89</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 76b62064-0b5e-4407-8b82-583e41abce89</_id>
+			<_modifiedTimeWeak type="a">4.30.2020::9:53:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.30.2020::9:53:17</_modifiedTime>
+			<_value type="a">2^-13</_value>
+		</ILiteralSpecification>
+		<IType type="e">
+			<_id type="a">GUID 61541afd-c9d6-4198-b334-e18f0b501fc7</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">T_Cosinus</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+							<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+							<_hname type="a">Physical_Data_Type</_hname>
+							<_hid type="a">GUID 1a975650-21c7-4a3e-bdf1-c167b2560040</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">4.30.2020::9:54:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.30.2020::9:54:57</_modifiedTime>
+			<_typedefBaseType type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+					<_hname type="a">sint16</_hname>
+					<_hid type="a">GUID ebb36a0f-a588-4dc2-b4ff-03b59b7f0451</_hid>
+				</IClassifierHandle>
+			</_typedefBaseType>
+			<_typedefMultiplicity type="a">1</_typedefMultiplicity>
+			<_typedefIsOrdered type="a">0</_typedefIsOrdered>
+			<_typedefIsReference type="a">0</_typedefIsReference>
+			<_typedefIsConstant type="a">0</_typedefIsConstant>
+			<_kind type="a">Typedef</_kind>
+			<AggregatesList type="e">
+				<value>GUID 50f14f45-2e5f-4311-b544-28fe42449e56</value>
+				<value>GUID 6f8f842a-e286-4923-81d1-a23084b57092</value>
+			</AggregatesList>
+		</IType>
+		<ITag type="e">
+			<_id type="a">GUID 50f14f45-2e5f-4311-b544-28fe42449e56</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Unit</_name>
+			<_modifiedTimeWeak type="a">4.30.2020::9:54:47</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.30.2020::9:54:47</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+					<_hclass type="a">Physical_Data_Type</_hclass>
+					<_hname type="a">Unit</_hname>
+					<_hid type="a">GUID df5a664b-2e5a-4b8b-bece-06efd9933f87</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID 252eb109-bcab-44f7-8570-e7032e1d8ad9</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 252eb109-bcab-44f7-8570-e7032e1d8ad9</_id>
+			<_modifiedTimeWeak type="a">4.30.2020::9:54:47</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.30.2020::9:54:47</_modifiedTime>
+			<_value type="a">-</_value>
+		</ILiteralSpecification>
+		<ITag type="e">
+			<_id type="a">GUID 6f8f842a-e286-4923-81d1-a23084b57092</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Resolution</_name>
+			<_modifiedTimeWeak type="a">4.30.2020::9:54:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.30.2020::9:54:57</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+					<_hclass type="a">Physical_Data_Type</_hclass>
+					<_hname type="a">Resolution</_hname>
+					<_hid type="a">GUID 404514f1-efc0-4eac-a6f0-44f21e5758bb</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID 0c72aa96-3cd0-4591-95f6-231746b8c7e9</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 0c72aa96-3cd0-4591-95f6-231746b8c7e9</_id>
+			<_modifiedTimeWeak type="a">4.30.2020::9:54:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.30.2020::9:54:57</_modifiedTime>
+			<_value type="a">2^-14</_value>
+		</ILiteralSpecification>
+		<IType type="e">
+			<_id type="a">GUID 692669b5-ffb6-4ea5-954e-5f1678f5a8dd</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">T_Sinus</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+							<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+							<_hname type="a">Physical_Data_Type</_hname>
+							<_hid type="a">GUID 1a975650-21c7-4a3e-bdf1-c167b2560040</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">4.30.2020::9:55:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.30.2020::9:55:9</_modifiedTime>
+			<_typedefBaseType type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+					<_hname type="a">sint16</_hname>
+					<_hid type="a">GUID ebb36a0f-a588-4dc2-b4ff-03b59b7f0451</_hid>
+				</IClassifierHandle>
+			</_typedefBaseType>
+			<_typedefMultiplicity type="a">1</_typedefMultiplicity>
+			<_typedefIsOrdered type="a">0</_typedefIsOrdered>
+			<_typedefIsReference type="a">0</_typedefIsReference>
+			<_typedefIsConstant type="a">0</_typedefIsConstant>
+			<_kind type="a">Typedef</_kind>
+			<AggregatesList type="e">
+				<value>GUID a3a3f96c-1ddc-4899-a386-ebf9850f5bd6</value>
+				<value>GUID b60adf23-af21-457a-916c-0f2b5f791ec3</value>
+			</AggregatesList>
+		</IType>
+		<ITag type="e">
+			<_id type="a">GUID a3a3f96c-1ddc-4899-a386-ebf9850f5bd6</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">Unit</_name>
+			<_modifiedTimeWeak type="a">4.30.2020::9:54:47</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.30.2020::9:55:1</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+					<_hclass type="a">Physical_Data_Type</_hclass>
+					<_hname type="a">Unit</_hname>
+					<_hid type="a">GUID df5a664b-2e5a-4b8b-bece-06efd9933f87</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID 303957c4-09c2-4b9c-a59c-a0e1a178eceb</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 303957c4-09c2-4b9c-a59c-a0e1a178eceb</_id>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_modifiedTimeWeak type="a">4.30.2020::9:54:47</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.30.2020::9:54:47</_modifiedTime>
+			<_value type="a">-</_value>
+		</ILiteralSpecification>
+		<ITag type="e">
+			<_id type="a">GUID b60adf23-af21-457a-916c-0f2b5f791ec3</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">Resolution</_name>
+			<_modifiedTimeWeak type="a">4.30.2020::9:54:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.30.2020::9:55:1</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_base type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ITag</_hm2Class>
+					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+					<_hclass type="a">Physical_Data_Type</_hclass>
+					<_hname type="a">Resolution</_hname>
+					<_hid type="a">GUID 404514f1-efc0-4eac-a6f0-44f21e5758bb</_hid>
+				</IHandle>
+			</_base>
+			<AggregatesList type="e">
+				<value>GUID e3370043-084f-4c0a-8648-24b93f9ae3bf</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID e3370043-084f-4c0a-8648-24b93f9ae3bf</_id>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_modifiedTimeWeak type="a">4.30.2020::9:54:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.30.2020::9:54:57</_modifiedTime>
+			<_value type="a">2^-14</_value>
+		</ILiteralSpecification>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
