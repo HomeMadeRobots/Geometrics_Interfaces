@@ -17,18 +17,22 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
-							<_hsubsystem type="a">Physical_Software_Architecture_Metamodel::Stereotypes</_hsubsystem>
-							<_hname type="a">PSWA_Package</_hname>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Project_Metamodel.sbsx</_hfilename>
+							<_hsubsystem type="a">Project_Metamodel::Common_Stereotypes</_hsubsystem>
+							<_hname type="a">Software_Package</_hname>
 							<_hid type="a">GUID afb0e42d-a399-4819-bb39-46f0fd0f0fbf</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.30.2020::20:27:21</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.30.2020::20:27:21</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.24.2020::12:52:29</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Gathers elements regarding geometric interfaces.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">12.24.2020::12:52:29</_modifiedTime>
 			<_lastID type="a">5</_lastID>
-			<weakCGTime type="a">4.30.2020::20:27:21</weakCGTime>
+			<weakCGTime type="a">12.24.2020::12:52:29</weakCGTime>
 			<strongCGTime type="a">4.30.2020::9:43:28</strongCGTime>
 			<_defaultComposite type="s">GUID c72fc73a-8bdd-4da3-a74d-d64fdb0c2ab3</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -532,7 +536,7 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.30.2020::10:11:31</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.24.2020::12:48:31</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -546,9 +550,9 @@
 </_textRTF>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">4.30.2020::10:11:31</_modifiedTime>
+			<_modifiedTime type="a">12.24.2020::12:48:31</_modifiedTime>
 			<_lastID type="a">2</_lastID>
-			<weakCGTime type="a">4.30.2020::10:11:31</weakCGTime>
+			<weakCGTime type="a">12.24.2020::12:48:31</weakCGTime>
 			<strongCGTime type="a">4.30.2020::9:55:25</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -611,8 +615,12 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.30.2020::9:55:54</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.30.2020::9:55:54</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.24.2020::12:48:31</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Provides the distance measured by the range sensor.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">12.24.2020::12:48:31</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_virtual type="a">0</_virtual>
 			<_abstract type="a">0</_abstract>
@@ -630,8 +638,12 @@
 			<_id type="a">GUID 0f8548f2-d0ac-4f5f-ab73-b9777b92bca7</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">distance</_name>
-			<_modifiedTimeWeak type="a">4.30.2020::9:55:54</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.30.2020::9:55:54</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.24.2020::12:48:31</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Measured distance.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">12.24.2020::12:48:31</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -699,8 +711,12 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.30.2020::9:56:15</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.30.2020::9:56:15</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.24.2020::12:48:10</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Provides the validity of the distance measured by the range sensor.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">12.24.2020::12:48:10</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_virtual type="a">0</_virtual>
 			<_abstract type="a">0</_abstract>
@@ -718,14 +734,19 @@
 			<_id type="a">GUID 93e12141-47d6-472b-823b-53c78945d7ef</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">is_measure_valid</_name>
-			<_modifiedTimeWeak type="a">4.30.2020::9:56:12</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.30.2020::9:56:12</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.24.2020::12:48:10</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Validity of the measured distance.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">12.24.2020::12:48:10</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
-					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
-					<_hname type="a">bool</_hname>
-					<_hid type="a">GUID e6c263cc-4bc5-4a11-b32d-02148c93add0</_hid>
+					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+					<_hsubsystem type="a">Software_Data_Type_Metamodel::Basic_Data_Types</_hsubsystem>
+					<_hname type="a">boolean</_hname>
+					<_hid type="a">GUID 5df8e979-be4c-4790-87a7-f8ee053c4162</_hid>
 				</IHandle>
 			</_typeOf>
 			<_isOrdered type="a">0</_isOrdered>
@@ -756,17 +777,17 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.30.2020::20:27:21</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">12.24.2020::12:42:3</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">Allows to model data representing a distance. It is suitable to  represent relative positions as it can take negative values (-16 meters to 15,99951 meters).</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">4.30.2020::20:27:21</_modifiedTime>
+			<_modifiedTime type="a">12.24.2020::12:42:3</_modifiedTime>
 			<_typedefBaseType type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
 					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
-					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+					<_hsubsystem type="a">Software_Data_Type_Metamodel::Basic_Data_Types</_hsubsystem>
 					<_hname type="a">sint16</_hname>
 					<_hid type="a">GUID ebb36a0f-a588-4dc2-b4ff-03b59b7f0451</_hid>
 				</IClassifierHandle>
@@ -820,8 +841,8 @@
 			<_id type="a">GUID e21b9098-0d5f-4fcb-854e-c05c99dbe27d</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Resolution</_name>
-			<_modifiedTimeWeak type="a">4.30.2020::9:53:26</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.30.2020::9:53:26</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.24.2020::12:42:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.24.2020::12:42:3</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -842,14 +863,14 @@
 				</IHandle>
 			</_base>
 			<AggregatesList type="e">
-				<value>GUID 4f287116-6ac3-4f0a-bb94-0dee04addd32</value>
+				<value>GUID 58428623-e9f5-452b-a73d-85c0edd58e5c</value>
 			</AggregatesList>
 		</ITag>
 		<ILiteralSpecification type="e">
-			<_id type="a">GUID 4f287116-6ac3-4f0a-bb94-0dee04addd32</_id>
-			<_modifiedTimeWeak type="a">4.30.2020::9:53:26</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.30.2020::9:53:26</_modifiedTime>
-			<_value type="a">2^-11</_value>
+			<_id type="a">GUID 58428623-e9f5-452b-a73d-85c0edd58e5c</_id>
+			<_modifiedTimeWeak type="a">12.24.2020::12:42:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.24.2020::12:42:3</_modifiedTime>
+			<_value type="a">0,00048828125</_value>
 		</ILiteralSpecification>
 		<IType type="e">
 			<_id type="a">GUID 3eeaa04e-8b01-4a16-a84d-349046d86e91</_id>
@@ -869,13 +890,18 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.30.2020::9:53:55</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.30.2020::9:53:55</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.24.2020::12:50:43</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Allows to model a data representing an angle.%0D
+The range shall be from 0 to (2PI - 0,0001220703125) rad.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">12.24.2020::12:50:43</_modifiedTime>
 			<_typedefBaseType type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
 					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
-					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+					<_hsubsystem type="a">Software_Data_Type_Metamodel::Basic_Data_Types</_hsubsystem>
 					<_hname type="a">uint16</_hname>
 					<_hid type="a">GUID 0d6a9487-2e1a-4d71-8dcb-52824fa8170d</_hid>
 				</IClassifierHandle>
@@ -929,8 +955,8 @@
 			<_id type="a">GUID 915779dc-c368-4dc1-983f-db3407c70a92</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Resolution</_name>
-			<_modifiedTimeWeak type="a">4.30.2020::9:53:17</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.30.2020::9:53:17</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.24.2020::12:42:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.24.2020::12:42:46</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -951,14 +977,14 @@
 				</IHandle>
 			</_base>
 			<AggregatesList type="e">
-				<value>GUID 76b62064-0b5e-4407-8b82-583e41abce89</value>
+				<value>GUID 1a33a99c-44b7-4948-89af-7b17acf5bae7</value>
 			</AggregatesList>
 		</ITag>
 		<ILiteralSpecification type="e">
-			<_id type="a">GUID 76b62064-0b5e-4407-8b82-583e41abce89</_id>
-			<_modifiedTimeWeak type="a">4.30.2020::9:53:17</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.30.2020::9:53:17</_modifiedTime>
-			<_value type="a">2^-13</_value>
+			<_id type="a">GUID 1a33a99c-44b7-4948-89af-7b17acf5bae7</_id>
+			<_modifiedTimeWeak type="a">12.24.2020::12:42:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.24.2020::12:42:46</_modifiedTime>
+			<_value type="a">0,0001220703125</_value>
 		</ILiteralSpecification>
 		<IType type="e">
 			<_id type="a">GUID 61541afd-c9d6-4198-b334-e18f0b501fc7</_id>
@@ -978,13 +1004,18 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.30.2020::9:54:57</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.30.2020::9:54:57</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.24.2020::12:52:19</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Allows to model a data representing a cosinus.%0D
+Its range goes from -1 to 1.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">12.24.2020::12:52:19</_modifiedTime>
 			<_typedefBaseType type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
 					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
-					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+					<_hsubsystem type="a">Software_Data_Type_Metamodel::Basic_Data_Types</_hsubsystem>
 					<_hname type="a">sint16</_hname>
 					<_hid type="a">GUID ebb36a0f-a588-4dc2-b4ff-03b59b7f0451</_hid>
 				</IClassifierHandle>
@@ -1038,8 +1069,8 @@
 			<_id type="a">GUID 6f8f842a-e286-4923-81d1-a23084b57092</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Resolution</_name>
-			<_modifiedTimeWeak type="a">4.30.2020::9:54:57</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.30.2020::9:54:57</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.24.2020::12:43:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.24.2020::12:43:7</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -1060,14 +1091,14 @@
 				</IHandle>
 			</_base>
 			<AggregatesList type="e">
-				<value>GUID 0c72aa96-3cd0-4591-95f6-231746b8c7e9</value>
+				<value>GUID a165edd6-241b-422a-967e-9a03bfd0956b</value>
 			</AggregatesList>
 		</ITag>
 		<ILiteralSpecification type="e">
-			<_id type="a">GUID 0c72aa96-3cd0-4591-95f6-231746b8c7e9</_id>
-			<_modifiedTimeWeak type="a">4.30.2020::9:54:57</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.30.2020::9:54:57</_modifiedTime>
-			<_value type="a">2^-14</_value>
+			<_id type="a">GUID a165edd6-241b-422a-967e-9a03bfd0956b</_id>
+			<_modifiedTimeWeak type="a">12.24.2020::12:43:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.24.2020::12:43:7</_modifiedTime>
+			<_value type="a">0,00006103515625</_value>
 		</ILiteralSpecification>
 		<IType type="e">
 			<_id type="a">GUID 692669b5-ffb6-4ea5-954e-5f1678f5a8dd</_id>
@@ -1087,13 +1118,18 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">4.30.2020::9:55:9</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.30.2020::9:55:9</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.24.2020::12:52:29</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Allows to model a data representing a sinus.%0D
+Its range goes from -1 to 1.</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">12.24.2020::12:52:29</_modifiedTime>
 			<_typedefBaseType type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
 					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
-					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
+					<_hsubsystem type="a">Software_Data_Type_Metamodel::Basic_Data_Types</_hsubsystem>
 					<_hname type="a">sint16</_hname>
 					<_hid type="a">GUID ebb36a0f-a588-4dc2-b4ff-03b59b7f0451</_hid>
 				</IClassifierHandle>
@@ -1150,8 +1186,8 @@
 			<_myState type="a">8192</_myState>
 			<_rmmServerID type="a">-1</_rmmServerID>
 			<_name type="a">Resolution</_name>
-			<_modifiedTimeWeak type="a">4.30.2020::9:54:57</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.30.2020::9:55:1</_modifiedTime>
+			<_modifiedTimeWeak type="a">12.24.2020::12:43:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.24.2020::12:43:13</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -1172,15 +1208,14 @@
 				</IHandle>
 			</_base>
 			<AggregatesList type="e">
-				<value>GUID e3370043-084f-4c0a-8648-24b93f9ae3bf</value>
+				<value>GUID 036a2729-d48c-4a88-a26c-0e148d330321</value>
 			</AggregatesList>
 		</ITag>
 		<ILiteralSpecification type="e">
-			<_id type="a">GUID e3370043-084f-4c0a-8648-24b93f9ae3bf</_id>
-			<_rmmServerID type="a">-1</_rmmServerID>
-			<_modifiedTimeWeak type="a">4.30.2020::9:54:57</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.30.2020::9:54:57</_modifiedTime>
-			<_value type="a">2^-14</_value>
+			<_id type="a">GUID 036a2729-d48c-4a88-a26c-0e148d330321</_id>
+			<_modifiedTimeWeak type="a">12.24.2020::12:43:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.24.2020::12:43:13</_modifiedTime>
+			<_value type="a">0,00006103515625</_value>
 		</ILiteralSpecification>
 		
 	</RHAPSODY-MODEL>
